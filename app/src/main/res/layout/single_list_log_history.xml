@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/cardbackground"
+    android:layout_margin="10dp"
+    android:elevation="4dp"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="88"
+        android:textSize="36sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:id="@+id/single_list_id"
+        android:layout_marginRight="10dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/single_list_date"
+        android:text="88/88/88"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:gravity="end"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/single_list_log_data"
+        android:layout_marginRight="10dp"
+        android:textSize="18sp"
+        android:text="new Log ksufhjsfljsdfshdfkjshdflsdfjhslkfjhsdlfhjsdlkfjsdlkfsddlfkf  sdjfl"
+        android:layout_toRightOf="@id/single_list_id"
+        android:layout_toLeftOf="@id/single_list_date"
+        />
+
+
+
+</RelativeLayout>

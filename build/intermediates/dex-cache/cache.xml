@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\11dea444a0a4669b6bbadd3a148d59772f8f6157\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87292fc9b30696e945e4d0026ab58d64af6ab603\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\110631bcc64e05a46227a20bb813d6aec2cbc05f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d38ac1cba740c4c0b6257b9f17e5a3f3654240cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\08f95fe2aa496d55122d337eb65454541bc8d6d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a375fd35a5f0a718320a1797fbd18128c8fc690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c74edc2652db8d8ce7f3c03b557a9676a736100b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cd9f5deeb7f670ce357ae3b2fb1e2c019b869fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2f63b4e6a0b02dc1e285369d89b825c3acabaaf3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2014b29221cdf36ff3c76e7b954a4e0cbe984ee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\424535c0ec2ce75fa1ddaeb1212506db8ddb4b52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c0e250a8ccaeaadab2e6d8d6681c77e1c5661e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MunavvarHushen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_0829348e24240c8d430472310b772d3b2e175e4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f6d2fdfdc313979b57fed9b81f0dbf8622a61674\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_153d669acb659d57a6b0ed602483f5d3cb6eb710\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\f6b3da8b51ddfcae1a47b5c0af19a781c5f1c1ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_829c541226802a66f34da641b689e7a4d5f9a87d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="741693458aad2208087285715209b735a89c2c4c">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5306fa8bc494d9b634eb03c4ed1cc349ae8afb75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c054b4d7902b2b9e560be8f2d78bb44372b9289c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2dfe94d50e999857c67a4636c15d9882240d7e62\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7d62111a67806ad34391ae6cf8a6f6f39802cf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MunavvarHushen\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_8fc54f8aaf71d2d4c6bc70653bb509a3670b722b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\aac6a40f70710b6ff85703639ca10b919ce02c91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce8d6aaa61c6d432c3a039dc2c3b3315ea441cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\e114f4da230cb30acebb89c8fa6d6dea7d9e4c68\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d9ba450018900b1c820336818b34998963d7317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\888033d9760f745885b810c7f93a1832dbbc9d7b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33b31c4b320fb278bce2f1c408fa44a7748ac134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2597417ae24fb16060529bcd1b35923378e14e95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\MunavvarHushen\AndroidStudioProjects\SibkaLogBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_114a25aed032c770da81a982c078264e455f422e\classes.dex" />
+    </item>
+
+</items>
