@@ -1,16 +1,36 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="tk.munavvar.sibkalogbook.ListLogFragment">
 
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="add new LOG"
+        android:layout_margin="20dp"
+        android:textSize="15sp"
+        android:background="@drawable/cardbackground"
+        android:elevation="8dp"
+        android:backgroundTint="@color/colorPrimaryLight"
+        android:textColor="@android:color/white"
+        android:id="@+id/add_new_log_button"
+        android:drawableTop="@drawable/ic_note_add_white_48px"
+        android:layout_weight="1"
+
+        />
+
     <ListView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/list_history"
+        android:padding="10dp"
+        android:dividerHeight="6dp"
+        android:divider="@android:color/transparent"
+        android:layout_below="@id/add_new_log_button"
         >
 
     </ListView>
 
-</FrameLayout>
+</RelativeLayout>
